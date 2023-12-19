@@ -3,7 +3,21 @@ Machine learning model evaluation metrics:
 
 https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/
 
-https://www.coursera.org/articles/machine-learning-models
+Evaluation metrics are quantitative measures used to assess the performance and effectiveness of a statistical or machine learning model. These metrics provide insights into how well the model is performing and help in comparing different models or algorithms.
+
+
+Confusion Matrix
+F1 Score
+Gain and Lift Charts
+Kolomogorov Smirnov Chart
+Area Under the ROC Curve (AUC – ROC)
+Log Loss
+Gini Coefficient
+Concordant – Discordant Ratio
+Root Mean Squared Error (RMSE)
+Root Mean Squared Logarithmic Error
+R-Squared/Adjusted R-Squared
+Cross Validation
 
 
 Classification evaluation metrics…
@@ -41,6 +55,8 @@ Tensor flow
 
 
 *********************************************************************************************************************************
+https://www.coursera.org/articles/machine-learning-models
+https://www.coursera.org/articles/machine-learning-algorithms
 
 How to create a machine learning model ?
 
