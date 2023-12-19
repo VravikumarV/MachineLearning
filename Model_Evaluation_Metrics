@@ -1,6 +1,11 @@
 Machine learning model evaluation metrics:
 **********************************************
 
+https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/
+
+https://www.coursera.org/articles/machine-learning-models
+
+
 Classification evaluation metrics…
 ===================================
 
@@ -33,3 +38,58 @@ Libraries:
 SciKit
 Keras
 Tensor flow
+
+
+*********************************************************************************************************************************
+
+How to create a machine learning model ?
+
+            Machine learning models are created by training algorithms with either labeled data, unlabeled data, or a mix of both. Four primary machine learning algorithms exist:
+
+                        Supervised learning:       Supervised learning occurs when an algorithm is trained using “labeled data,” or data that is tagged with a label so that an algorithm can successfully learn from it. Training labels help the eventual machine learning model know how to classify data in the manner that the researcher desires.
+                        
+                        Unsupervised learning:       Unsupervised algorithms use unlabeled data to train an algorithm. In this process, the algorithm finds patterns in the data itself and creates its own data clusters. Unsupervised learning and pattern recognition are helpful for researchers who are looking to find patterns in data that are currently unknown to them.
+                        
+                        Semi-supervised learning:   Semi-supervised learning uses a mix of labeled and unlabeled data to train an algorithm. In this process, the algorithm is first trained with a small amount of labeled data before being trained with a much larger amount of unlabeled data. 
+                        
+                        Reinforcement learning:     Reinforcement learning is a machine learning technique in which positive and negative values are assigned to desired and undesired actions. The goal is to encourage programs to avoid the negative training examples and seek out the positive, learning how to maximize rewards through trial and error. Reinforcement learning can be used to direct unsupervised machine learning.
+
+What are parameters in machine learning?
+
+Types of machine learning models
+                        There are two types of problems that dominate machine learning: classification and prediction. 
+                        
+                        These problems are approached using models derived from algorithms designed for either classification or regression (a method used for predictive modeling). Occasionally, the same algorithm can be used to create either classification or regression models, depending on how it is trained. 
+                        
+                        Below you will find a list of popular algorithms used to create classification and regression models. 
+
+Classification models:
+                        Logistic regression 
+                        Naive Bayes 
+                        Decision trees 
+                        Random forest 
+                        K-nearest neighbor (KNN)
+                        Support vector machine
+
+Regression models:  (A method used for predictive modeling)
+
+                        Linear regression
+                        Ridge regression 
+                        Decision trees
+                        Random forest 
+                        K-nearest neighbor (KNN)
+                        Neural network regression
+
+
+1. Linear regression            :a supervised machine learning technique used for predicting and forecasting values that fall within a continuous range, such as sales numbers or housing prices.
+2. Logistic regression          :also known as "logit regression," is a supervised learning algorithm primarily used for binary classification tasks.
+3. Naive Bayes                  :a set of supervised learning algorithms used to create predictive models for binary or multi-classification tasks.
+4. Decision tree                :a supervised learning algorithm used for classification and predictive modeling tasks.
+5. Random forest                : an ensemble of decision trees used for classification and predictive modeling. 
+6. K-nearest neighbor (KNN)     :a supervised learning algorithm commonly used for classification and predictive modeling tasks.
+7.  K-means                     :an unsupervised algorithm commonly used for clustering and pattern recognition tasks
+8. Support vector machine (SVM) :a supervised learning algorithm commonly used for classification and predictive modeling tasks.
+9. Apriori                      :unsupervised learning algorithm used for predictive modeling
+10. Gradient boosting           :algorithms employ an ensemble method, which means they create a series of "weak" models that are iteratively improved upon to form a strong predictive model. 
+
+Notes:    a decision tree is a common algorithm used for both classification and prediction modeling.
