@@ -1,0 +1,35 @@
+Machine learning model evaluation metrics:
+**********************************************
+
+Classification evaluation metrics…
+===================================
+
+Accuracy:
+Precision: % of correctly labelled positive instances out of all positively labelled instances. TP/(TP+FP)
+Recall: % of correctly labelled positive instances out of all positively instances. TP/TP+FN
+
+F1 score: combination of precision and recall. Used in combination with other, 2 / (1/precision)+(1/recall)
+
+PR curve:
+
+AUC (area under curve)
+
+Crossentropy:
+
+
+Regression evaluation metrics:
+================================
+
+MAE (mean absolute error)
+MSE (Mean squared error):
+RMSE (root. Evan squared error)
+R2 (coefficient of determination)
+Cosine similarity
+
+
+Libraries:
+**************
+
+SciKit
+Keras
+Tensor flow
