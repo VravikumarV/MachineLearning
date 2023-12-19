@@ -109,3 +109,21 @@ Regression models:  (A method used for predictive modeling)
 10. Gradient boosting           :algorithms employ an ensemble method, which means they create a series of "weak" models that are iteratively improved upon to form a strong predictive model. 
 
 Notes:    a decision tree is a common algorithm used for both classification and prediction modeling.
+
+
+***********************************************************************************************************************************
+Building Machine Learning Model / Training: 
+
+
+Build a Step-by-step Machine Learning Model Using R:                      https://www.analyticsvidhya.com/blog/2022/06/build-a-step-by-step-machine-learning-model-using-r/
+
+
+***********************************************************************************************************************************
+Example Use cases:
+
+
+https://www.kaggle.com/code/erick5/predicting-house-prices-with-machine-learning
+
+
+***********************************************************************************************************************************
+https://machinelearningmastery.com/statistics_for_machine_learning/
