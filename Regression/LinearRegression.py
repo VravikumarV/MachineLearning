@@ -20,11 +20,16 @@ sns.set(style='white', context='notebook', palette='deep')
 #%config InlineBackend.figure_format = 'retina' #set 'png' here when working on notebook
 #%matplotlib inline
 
-# Load train and Test set
-train = pd.read_csv("../Datasets/RealEstate/Banglore.csv")
-test = pd.read_csv("../Datasets/RealEstate/Banglore.csv")
+import os
+script_dir = os.path.dirname(__file__)
+rel_path = "..\Datasets\RealEstate\Bangalore.csv"
+abs_file_path = os.path.join(script_dir, rel_path)
 
-print(train.head(5))
+# Load train and Test set
+train = pd.read_csv(abs_file_path)
+test = pd.read_csv(abs_file_path)
+
+print(train.describe)
 
 # Check the numbers of samples and features
 print("The train data size before dropping Id feature is : {} ".format(train.shape))

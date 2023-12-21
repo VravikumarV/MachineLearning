@@ -9,13 +9,13 @@ Data Cleaning
 Python:
 
     https://docs.python.org/3/installing/index.html
-    
+
     https://packaging.python.org/en/latest/tutorials/installing-packages/#requirements-for-installing-packages
 
 Pandas:
 NumPy:
 
-Scikit:
+Scikit: threadpoolctl, scipy, joblib, scikit-learn
         https://scikit-learn.org/stable/modules/tree.html
         https://scikit-learn.org/stable/auto_examples/index.html#examples-based-on-real-world-datasets
 
