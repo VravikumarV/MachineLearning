@@ -6,6 +6,7 @@ Feaure Selection
 Feature Engineering
 Data Cleaning
 
+
 Python:
 
     https://docs.python.org/3/installing/index.html
@@ -14,12 +15,13 @@ Python:
 
 Pandas:
 NumPy:
-
+PyTorch
 Scikit: threadpoolctl, scipy, joblib, scikit-learn
         https://scikit-learn.org/stable/modules/tree.html
         https://scikit-learn.org/stable/auto_examples/index.html#examples-based-on-real-world-datasets
-
 Tensorflow:
+seaborn:
+
 
 https://www.kaggle.com/code/erick5/predicting-house-prices-with-machine-learning/notebook
 

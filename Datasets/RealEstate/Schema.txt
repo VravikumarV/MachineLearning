@@ -1,0 +1,27 @@
+RealEstate:
+
+	propert-spec	(search-grid):
+		flat / house / villa spec;
+		Bedrooms, bathrooms, kitchecn, flooring, water, gas, interior, electricity (undeground/open)
+		pricing, facing	
+	
+	property_classifier;		standalone / gated-comunity / individual / govt housing board
+	
+	builder spec:
+		gated community
+		size, units
+		amenties
+		project-delivery
+		project-status
+		approvals
+	
+	location:
+		near by with google co-ordinates, distance,  
+	
+	society / ommuniaty	(search-grid, based on gated community property listing);
+	
+	
+	
+	
+	
+	
